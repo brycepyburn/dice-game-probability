@@ -1,4 +1,5 @@
 ### Probabilistic Analysis of Rank-Order Ties in a 4-Player Dice Game
+[⬅️ Back to My Portfolio](https://github.com/bpyburn3)
 **Background**
 In a class project in which my group designed a board game, a case arose in which the game state was mathematically equivalent to the following scenario:
 

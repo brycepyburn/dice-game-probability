@@ -14,5 +14,5 @@ I decided to find the probability of every possible distinct game outcome and su
 * ~6% tie probablity
 
 **Repository Contents**
-* [Worked Problem](Probability Calculation.pdf)
+* [Worked Problem](Probability-Calculation.pdf)
 * [Simulation] (Coming soon)

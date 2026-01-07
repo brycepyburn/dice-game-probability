@@ -18,4 +18,4 @@ I decided to find the probability of every possible distinct game outcome and su
 * [Worked Problem](Probability-Calculation.pdf)
 * [Simulation] (Coming soon)
 
-[⬅️ Back to My Portfolio](https://github.com/bpyburn3)
+[⬅️ Back to My Portfolio](https://brycepyburn.github.io/)

@@ -1,0 +1,22 @@
+import random
+
+tieCount = 0
+gameCount = 0
+winnerCount = 0
+loserCount = 0
+
+for j in range(1000000):
+  gameCount += 1
+  results = [0, 0, 0, 0]
+  for i in range(4):
+    count = 1;
+    while (random.randint(1,6) != 5):
+      count += 1
+    results[i] = count
+  results.sort()
+  if (results[-1] == results[-2]):
+    tieCount += 1
+  winnerCount += results[0]
+  loserCount += results[-1]
+
+print(f"Tie rate: {tieCount / gameCount}\nAverage winning roll count: {winnerCount / gameCount}\nAverage losing roll count: {loserCount / gameCount}")

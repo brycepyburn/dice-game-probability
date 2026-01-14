@@ -8,11 +8,13 @@ Players A, B, C, and D each roll a fair 6-sided die until they roll a 5 (selecti
 Our game did not intend to allow for there to be multiple "losers," so I wanted to calculate the probability of this occurring. 
 
 **Methodology**
-I decided to find the probability of every possible distinct game outcome and sum the relevant odds to find the chance of a tie. This allowed me to "check" my math by showing the sum of all cases is 1.
+I opted to find the probability of every possible distinct game outcome and sum the relevant odds to find the chance of a tie. This allowed me to "check" my math by showing the sum of all cases is 1.
 
 **Findings**
 * 8 structurally distinct game outcomes
-* ~6% tie probablity
+* ~8.6% tie probablity
+* Average winning count: 1.9 rolls taken
+* Average losing count: 11.9 rolls taken
 
 **Repository Contents**
 * [Worked Problem](Probability-Calculation.pdf)

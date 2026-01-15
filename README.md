@@ -17,7 +17,7 @@ I opted to find the probability of every possible distinct game outcome and sum 
 * Average losing count: 11.9 rolls taken
 
 **Repository Contents**
-* [Worked Problem](Probability-Calculation.pdf)
+* [Analytical Solution](Probability-Calculation.pdf)
 * [Simulation](dice_game_sim)
 
 [⬅️ Back to My Portfolio](https://brycepyburn.github.io/)

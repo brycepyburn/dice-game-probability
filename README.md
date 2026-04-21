@@ -19,5 +19,3 @@ I opted to find the probability of every possible distinct game outcome and sum 
 ## Repository Contents
 * [Analytical Solution](Probability-Calculation.pdf)
 * [Simulation](dice_game_sim)
-
-[⬅️ Back to My Portfolio](https://brycepyburn.github.io/)
